@@ -199,10 +199,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 .gsc-input-box {
 	height:30px !important;
-	background-image:none !important;
+	background-image:-n-o-n-e !important;
 	background: rgb(255, 255, 255);
 }
-.gsc-input{background:none !important}
+.gsc-input{background:-n-o-n-e !important}
 
 input.gsc-search-button {
 	height:30px !important;
